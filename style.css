@@ -1,0 +1,43 @@
+body {
+    height: 100%;
+    background-color: darkgoldenrod;
+    font-family: Arial, sans-serif;
+}
+
+.heading {
+    color: yellowgreen;
+    text-align: center;
+}
+
+.paragraph {
+    color: white;
+    text-align: center;
+}
+
+#studentForm {
+    margin-left: 590px;
+}
+
+#submit {
+    background-color: blue;
+}
+
+#studentForm {
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f0f0f0;
+}
